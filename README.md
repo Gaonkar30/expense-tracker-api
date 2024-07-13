@@ -11,8 +11,7 @@ An API for tracking expenses, allowing users to register, login, create, update,
 - [Getting Started](#getting-started)
 - [Environment Variables](#environment-variables)
 - [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
