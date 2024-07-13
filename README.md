@@ -1,5 +1,5 @@
 
-```markdown
+
 # Expense Tracker API
 
 An API for tracking expenses, allowing users to register, login, create, update, delete, and view their expenses over time.
